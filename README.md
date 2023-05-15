@@ -1,2 +1,2 @@
 # minesweepper-field
-Minesweepper custom field generator
+Minesweepper field generator
